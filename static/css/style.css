@@ -1,0 +1,68 @@
+﻿.img1 {
+	width:100px; 
+	height:100px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 5000px;
+	border-style:solid;
+	border-width:3px;
+	border: rgba(255,255,255,.4) 4px solid;
+}
+
+.nb-1 {
+	width:566px; 
+	background-color:#0000;
+	display: block;
+    margin: 0 auto;
+	border-radius: 13px;
+	padding: 25px;
+	opacity: 1.0;
+}
+
+.nb-3 {
+	width:250px; 
+	height:250px;
+	background:url('../images/bj1.jpg');
+	background-position:center;
+	background-size:100%;
+}
+
+body {
+	background:url('../images/bg.jpg');
+    width:auto;
+    height:auto;
+    max-width:100%;
+    max-height:100%;
+}
+blockquote {
+	width: 465px;
+    border-left: 7px solid #ffa439;
+    padding: 4px 0 5px 10px;
+    background: #e4e4e4;
+}
+a:hover {
+	color: #654949
+}
+b {
+	color: black;
+}
+.container {
+  border-radius: 12px;
+  margin-bottom: 15px;
+  margin-left: 65px;
+  margin-top: -50px;
+  width: 82%;
+  background-color: #f1f1f1;
+}
+
+.skills {
+  border-radius: 12px;
+  text-align: right;
+  padding-right: 20px;
+  line-height: 40px;
+  color: white;
+}
+.html {width: 5%; background-color: #e44d26;}
+.css {width: 1%; background-color: #2196F3;}
+.js {width: 0%; background-color: #2c2c2c;}
+.fotn {font-family:'Source-Han-Norm1a28ca298220065';}
